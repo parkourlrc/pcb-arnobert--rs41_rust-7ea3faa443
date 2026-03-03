@@ -20,7 +20,7 @@ I have additionally mounted a SMA plug to connect to a SDR (LimeSDR) or analyzer
 ---
 ## Sonde hardware
 bazjo did an amazing job in reverse-engineering the RS41's PCB.
-Please read his documentation: https://github.com/bazjo/radiosonde_hardware/tree/master/Vaisala_RS41
+Please read the documentation: https://github.com/bazjo/radiosonde_hardware/tree/master/Vaisala_RS41
 
 ---
 
