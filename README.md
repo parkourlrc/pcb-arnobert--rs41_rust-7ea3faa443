@@ -4,8 +4,7 @@
 
 :warning: 2024-05-03: Today I captured a RS41 with a new microcontroller: **STM32L412**. 
 This repo is developed on the **old** revision (with STM32F100). Do not attempt to flash a new revision with this firmware!
-
-Template for the **new** revison (at the moment nothing more than a blinky): https://github.com/arnobert/rs41_v2-rs
+A new version might be on it's way some day.
 
 ---
 
