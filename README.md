@@ -11,7 +11,7 @@ A new version might be on it's way some day.
 ## Obtaining the sonde
 The web contains lots of information about how to get and program a RS41.
 I am using a standard NXP LPC Link 2 with CMSIS-DAP firmware connected to the 
-sonde with the adapter (see KiCad project in the hw folder).
+sonde with the adapter (see KiCad project in the hw folder). LPC-Link J2 must be closed.
 
 **_Please unsolder and remove the antenna (steel wire next to the 10 pin connector) before first programming!_** 
 
